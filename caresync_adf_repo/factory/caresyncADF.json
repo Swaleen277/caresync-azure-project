@@ -1,0 +1,20 @@
+{
+	"name": "caresyncADF",
+	"properties": {
+		"globalParameters": {
+			"email_recipients": {
+				"type": "string",
+				"value": "mohdsualeen02@gmail.com"
+			},
+			"env": {
+				"type": "string",
+				"value": "DEV"
+			},
+			"logic_app_url": {
+				"type": "string",
+				"value": "https://prod-02.centralindia.logic.azure.com:443/workflows/5a6b9119291649f991dcf3bdd4c74a04/triggers/When_an_HTTP_request_is_received/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_an_HTTP_request_is_received%2Frun&sv=1.0&sig=JERnqUFhZ6nHOdGBXAKo7ARj91LUwYgpOhYaIkwggqc"
+			}
+		}
+	},
+	"location": "centralindia"
+}
